@@ -1,0 +1,3 @@
+[submodule "wavefrontDB"]
+	path = wavefrontDB
+	url = https://github.com/PaNOSC-ViNYL/wavefrontDB.git
